@@ -198,9 +198,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Zeth Höglund"
+	name = "Zeth Hoeglund"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	picture = "Portrait_SWE_hoeglund.dds"
 	expire = "1965.1.1"
 	ideology = radical_de_leonist
 	traits = {
@@ -209,9 +209,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Fredrik Strom"
+	name = "Fredrik Stroem"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+	picture = "Portrait_SWE_stroem.dds"
 	expire = "1965.1.1"
 	ideology = representative_democrat
 	traits = {
