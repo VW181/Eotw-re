@@ -1,5 +1,5 @@
 ﻿name="EOTW"
-path="mod/eotw/"
+path="mod/Etow-re/"
 tags={
 	"Alternative History"
 }
