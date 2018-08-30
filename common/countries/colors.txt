@@ -526,3 +526,8 @@ MOT = {
 	color = rgb { 255 255  102 }
 	color_ui = rgb { 252 182 112 }
 }
+
+QUE = {
+	color = rgb { 224 224 224 }
+	color_ui = rgb { 252 182 112 }
+}

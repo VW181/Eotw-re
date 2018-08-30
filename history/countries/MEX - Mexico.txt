@@ -1,5 +1,8 @@
 capital = 277
 
+set_stability = 0.11
+set_war_support = 0.32
+
 oob = "MEX_1936"
 
 # Starting tech

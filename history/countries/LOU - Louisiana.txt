@@ -128,7 +128,8 @@ add_ideas = {
 	weak_advisory_council
 }
 
-set_national_unity = 0.8
+set_stability = 0.37
+set_war_support = 0.28
 
 create_country_leader = {
 	name = "Philippe Petain"

@@ -1,4 +1,4 @@
-capital = 276
+capital = 683
 
 oob = "CAN_1936"
 
@@ -224,8 +224,9 @@ create_country_leader = {
 	}
 }
 
-set_convoys = 100
-set_national_unity = 0.9
+set_convoys = 267
+set_stability = 0.54
+set_war_support = 0.38
 
 1939.1.1 = {
 	set_politics = {

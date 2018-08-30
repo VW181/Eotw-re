@@ -1709,7 +1709,7 @@
  VEN_nationalist:0 "Venezuela"
  VEN_nationalist_DEF:0 "Venezuela"
  VEN_absolute_monarchist:0 "Kingdom of Venezuela"
- VEN_absolute_monarchist]_DEF:0 "The Kingdom of Venezuela"
+ VEN_absolute_monarchist_DEF:0 "The Kingdom of Venezuela"
  VEN_national_conservative:0 "Venezuela"
  VEN_national_conservative_DEF:0 "Venezuela"
  VEN_theoconservative:0 "Venezuela"
