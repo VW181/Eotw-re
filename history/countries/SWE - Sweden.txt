@@ -198,7 +198,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Zeth Hoglund"
+	name = "Zeth Höglund"
 	desc = ""
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
 	expire = "1965.1.1"
@@ -233,7 +233,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Sven Olov Lindholm"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+	picture = "Portrait_SWE_Lindholm.dds"
 	expire = "1965.1.1"
 	ideology = fascist
 	traits = {
