@@ -48,13 +48,6 @@ bookmarks = {
 				weak_advisory_council
 			}			
 		}
-		 "SPR"={
-			history = "SPR_GATHERING_STORM_DESC"
-			ideology = democratic_socialist
-			ideas = {
-				
-			}
-		}
 		"SOV"={
 			history = "SOV_GATHERING_STORM_DESC"
 			ideology = theoconservative
