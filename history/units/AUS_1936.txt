@@ -1,4 +1,4 @@
-##### Division Templates #####
+Ôªø##### Division Templates #####
 division_template = {
 	name = "Osterreichische Infanterie"		
 	regiments = {
@@ -79,7 +79,7 @@ units = {
 	}
 	
 	division= {	
-		name = "Hauptstadt Revolution‰re Panzerdivision"
+		name = "Hauptstadt Revolution√§re Panzerdivision"
 		location = 11666 #Vienna
 		division_template = "Leichte Panzerdivision" 		
 		start_experience_factor = 0.2
@@ -100,7 +100,7 @@ units = {
 	}
 	
 	division= {	
-		name = "1. ÷sterreichische Rote Armee"
+		name = "1. √ñsterreichische Rote Armee"
 		location = 9648 #Graz
 		division_template = "Osterreichische Infanterie" 		
 		start_experience_factor = 0.2
@@ -114,14 +114,14 @@ units = {
 	}
 	
 	division= {	
-		name = "2. ÷sterreichische Rote Armee"
+		name = "2. √ñsterreichische Rote Armee"
 		location = 688 #Salzburg
 		division_template = "Osterreichische Infanterie" 	
 		start_experience_factor = 0.3
 	}
 	
 	division= {	
-		name = "1. Revolution‰re Alpen Armee"
+		name = "1. Revolution√§re Alpen Armee"
 		location = 9650
 		division_template = "Alpen Abwehr" 	
 		start_experience_factor = 0.3
@@ -150,14 +150,14 @@ units = {
 	}
 	
 	division= {	
-		name = "3. ÷sterreichische Rote Armee"
+		name = "3. √ñsterreichische Rote Armee"
 		location = 3569 
 		division_template = "Osterreichische Infanterie" 	
 		start_experience_factor = 0.3
 	}
 	
 	division= {	
-		name = "Bˆhmischen Regionalen Polizeitruppen"
+		name = "B√∂hmischen Regionalen Polizeitruppen"
 		location = 6418 #Plzen
 		division_template = "Kavallerie-Brigade" 	
 		start_experience_factor = 0.3
@@ -171,7 +171,7 @@ units = {
 	}
 	
 	division= {	
-		name = "Regionale Revolution‰re Alpine"
+		name = "Regionale Revolution√§re Alpine"
 		location = 6485
 		division_template = "Alpen Abwehr" 	
 		start_experience_factor = 0.3

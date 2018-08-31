@@ -1,4 +1,7 @@
-capital = 4
+﻿capital = 4
+
+set_stability = 0.65
+set_war_support = 0.42
 
 oob = "AUS_1936"
 
@@ -90,8 +93,6 @@ create_faction = internationale
 add_to_faction = AUS
 add_to_faction = DEN
 add_to_faction = HOL
-
-set_national_unity = 0.50
 
 create_country_leader = {
 	name = "Franz Koritschoner"

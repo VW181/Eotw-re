@@ -1,4 +1,4 @@
-###########################
+﻿###########################
 # AUS Events
 ###########################
 
@@ -51,7 +51,7 @@ country_event = {
 		ai_chance = {
 			factor = 60
 		}
-		add_national_unity = 0.02
+		add_stability = 0.02
 		add_manpower = -10000
 		set_country_flag = welthauptstadt_vienna_beginning
 	}
@@ -120,7 +120,7 @@ country_event = {
 		ai_chance = {
 			factor = 100
 		}
-		add_national_unity = 0.01
+		add_stability = 0.01
 		add_manpower = -200
 		set_country_flag = welthauptstadt_vienna_arch
 		clr_country_flag = welthauptstadt_vienna_avenue_axis
@@ -218,7 +218,7 @@ country_event = {
 			factor = 100
 		}
 		add_manpower = -5000
-		add_national_unity = 0.02
+		add_stability = 0.02
 		army_experience = 10
 		set_country_flag = welthauptstadt_vienna_great_hall
 		clr_country_flag = welthauptstadt_vienna_expo
@@ -247,7 +247,7 @@ country_event = {
 			factor = 100
 		}
 		add_manpower = -5000
-		add_national_unity = 0.05
+		add_stability = 0.05
 		army_experience = 15
 		4 = {
 				add_building_construction = {
@@ -770,7 +770,7 @@ country_event = {
 		ai_chance = {
 			base = 11
 		}
-		add_national_unity = 0.05
+		add_stability = 0.05
 	}
 }
 
@@ -993,7 +993,7 @@ country_event = {
 		ai_chance = {
 			factor = 0
 		}
-		add_national_unity = -0.1
+		add_stability = -0.1
 	}
 }
 
@@ -1129,7 +1129,7 @@ country_event = {
 		}
 		add_political_power = -100
 		add_manpower = -5000
-		add_national_unity = -0.01
+		add_stability = -0.01
 		FRA = {
 		    country_event = { days = 7 id = austria.38 } 
 		}
@@ -1181,7 +1181,7 @@ country_event = {
 		}
 		add_political_power = -300
 		add_manpower = -10000
-		add_national_unity = -0.02
+		add_stability = -0.02
 		FRA = {
 		    country_event = { days = 7 id = austria.38 } 
 		}
@@ -1233,7 +1233,7 @@ country_event = {
 		BOH = { transfer_state = 9 }
 		add_political_power = -500
 		add_manpower = -20000
-		add_national_unity = -0.03
+		add_stability = -0.03
 		FRA = {
 		    country_event = { days = 7 id = austria.38 } 
 		}
@@ -1285,7 +1285,7 @@ country_event = {
 		BOH = { transfer_state = 69 }
 		add_political_power = -800
 		add_manpower = -30000
-		add_national_unity = -0.05
+		add_stability = -0.05
 		FRA = {
 		    country_event = { days = 7 id = austria.38 } 
 		}
@@ -1583,7 +1583,7 @@ country_event = {
 		ai_chance = {
 			factor = 100
 		}
-		add_national_unity = 0.1
+		add_stability = 0.1
 	}
 }
 
@@ -1642,7 +1642,7 @@ country_event = {
 			factor = 50
 		}
 		add_political_power = -50
-		add_national_unity = -0.05
+		add_stability = -0.05
 	}
 }
 
@@ -1739,7 +1739,7 @@ country_event = {
 			}
 		}
 		TUR = {
-			add_national_unity = -0.1
+			add_stability = -0.1
 		}
 		AUS = {
 			declare_war_on = { target = TUR type = puppet }
@@ -1772,7 +1772,7 @@ country_event = {
 			}
 		}
 		TUR = {
-			add_national_unity = -0.02
+			add_stability = -0.02
 		}
 		AUS = {
 			declare_war_on = { target = TUR type = puppet }
@@ -1829,7 +1829,7 @@ country_event = {
 		name = austria.48.a
 		ai_chance = { factor = 100 }
 		TUR = {
-			add_national_unity = 0.1
+			add_stability = 0.1
 		}
 		AUS = {
 			declare_war_on = { target = TUR type = puppet }
