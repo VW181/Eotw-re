@@ -16,7 +16,7 @@ ideas = {
 			
 			modifier = {
 				de_leonist_drift = 0.08
-				unity_factor = -0.05
+				stability_factor = -0.05
 			}
 			picture = generic_volunteer_expedition_bonus
 		
@@ -38,7 +38,7 @@ ideas = {
 			
 			modifier = {
 				absolute_monarchist_drift = 0.08
-				unity_factor = -0.05
+				stability_factor = -0.05
 			}
 			picture = generic_volunteer_expedition_bonus
 		
@@ -60,7 +60,7 @@ ideas = {
 			
 			modifier = {
 				strasserist_drift = 0.08
-				unity_factor = -0.05
+				stability_factor = -0.05
 			}
 			picture = generic_volunteer_expedition_bonus
 		
@@ -82,7 +82,7 @@ ideas = {
 			
 			modifier = {
 				americanist_drift = 0.08
-				unity_factor = -0.05
+				stability_factor = -0.05
 			}
 			picture = generic_volunteer_expedition_bonus
 		
@@ -124,7 +124,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = -0.2
+				stability_factor = -0.2
 				conscription = -0.01
 				army_attack_factor = -0.02
 			}
@@ -147,7 +147,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = 0.1
+				stability_factor = 0.1
 				conscription = 0.04
 				army_attack_factor = 0.1
 			}
@@ -170,7 +170,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = -0.2
+				stability_factor = -0.2
 				conscription = 0.08
 			}
 			picture = generic_volunteer_expedition_bonus
@@ -192,7 +192,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = -0.05
+				stability_factor = -0.05
 				production_speed_industrial_complex_factor = 0.15
 				production_speed_arms_factory_factor = 0.15
 				conscription = 0.01

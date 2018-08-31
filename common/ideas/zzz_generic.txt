@@ -34,7 +34,7 @@ ideas = {
 			modifier = {
 				research_time_factor = -0.2
 				consumer_goods_factor = 0.3
-				unity_factor = -0.1
+				stability_factor = -0.1
 				production_speed_industrial_complex_factor = 0.15
 				political_power_gain = 0.3
 				industrial_capacity_factory = 0.1
@@ -433,7 +433,7 @@ ideas = {
 				send_volunteers_tension = 0.3
 				guarantee_tension = 0.6
 				ai_get_ally_desire_factor = -40
-				unity_factor = -0.05
+				stability_factor = -0.05
 				production_speed_industrial_complex_factor = -0.05
 				production_speed_arms_factory_factor = -0.05
 				political_power_cost = -0.3
@@ -452,7 +452,7 @@ ideas = {
 			picture = strong_council
 	
 			modifier = {
-				unity_factor = 0.05
+				stability_factor = 0.05
 				production_speed_industrial_complex_factor = 0.02
 				production_speed_arms_factory_factor = 0.02
 				political_power_cost = 0.55
@@ -473,7 +473,7 @@ ideas = {
 			
 			modifier = {
 				collectivist_drift = 0.05
-				unity_factor = 0.10
+				stability_factor = 0.10
 				production_speed_buildings_factor = 0.1
 			}
 			rule = {
@@ -494,7 +494,7 @@ ideas = {
 			
 			modifier = {
 				de_leonist_drift = 0.05
-				unity_factor = 0.10
+				stability_factor = 0.10
 			}
 			rule = {
 				can_create_factions = yes
@@ -514,7 +514,7 @@ ideas = {
 			
 			modifier = {
 				strasserist_drift = 0.05
-				unity_factor = 0.10
+				stability_factor = 0.10
 				production_speed_arms_factory_factor = 0.1
 				justify_war_goal_time = -0.10
 			}
@@ -536,7 +536,7 @@ ideas = {
 			
 			modifier = {
 				nationalist_drift = 0.05
-				unity_factor = 0.10
+				stability_factor = 0.10
 			}
 			rule = {
 				can_create_factions = yes
@@ -556,7 +556,7 @@ ideas = {
 			
 			modifier = {
 				absolute_monarchist_drift = 0.05
-				unity_factor = 0.05
+				stability_factor = 0.05
 			}
 			rule = {
 				can_create_factions = yes
@@ -576,7 +576,7 @@ ideas = {
 			
 			modifier = {
 				theoconservative_drift = 0.05
-				unity_factor = 0.05
+				stability_factor = 0.05
 				training_time_army_factor = -0.05
 			}
 			rule = {

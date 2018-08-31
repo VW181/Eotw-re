@@ -18,7 +18,7 @@ ideas = {
 			
 			modifier = {
 				political_power_cost = 0.5
-				unity_factor = -0.10
+				stability_factor = -0.10
 			}
 		}
 	}
@@ -54,7 +54,7 @@ ideas = {
 			picture = generic_volunteer_expedition_bonus
 			
 			modifier = {
-			    unity_factor = 0.02
+			    stability_factor = 0.02
 				drift_defence_factor = -0.05
 			}
 		

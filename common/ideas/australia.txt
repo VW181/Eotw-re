@@ -10,7 +10,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = -0.15
+				stability_factor = -0.15
 			}
 			
 			picture = FRA_scw_intervention_republicans_focus
@@ -30,7 +30,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = 0.1
+				stability_factor = 0.1
 				americanist_acceptance = 85
 				production_speed_industrial_complex_factor = 0.2
 			}
@@ -50,7 +50,7 @@ ideas = {
 			
 			modifier = {
 			    consumer_goods_factor = -0.1
-				unity_factor = 0.1
+				stability_factor = 0.1
 				democratic_socialist_acceptance = 85
 			}
 			
@@ -68,7 +68,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = 0.1
+				stability_factor = 0.1
 				georgist_acceptance = 85
 				production_speed_industrial_complex_factor = 0.25
 			}
@@ -87,7 +87,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = 0.1
+				stability_factor = 0.1
 				national_conservative_acceptance = 85
 				production_speed_air_base_factor = 0.1
 				army_bonus_air_superiority_factor = 0.1
@@ -107,7 +107,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = 0.1
+				stability_factor = 0.1
 				production_speed_dockyard_factor = 0.25
 			}
 			

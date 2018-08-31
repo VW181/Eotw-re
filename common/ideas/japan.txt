@@ -48,7 +48,7 @@ JAP_Unity_idea = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = -0.3
+				stability_factor = -0.3
 			}
 			
 			picture = generic_morale_bonus

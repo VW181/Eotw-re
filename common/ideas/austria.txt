@@ -217,7 +217,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = -0.2
+				stability_factor = -0.2
 			}
 			
 			picture = FRA_scw_intervention_republicans_focus
@@ -238,7 +238,7 @@ ideas = {
 				justify_war_goal_time = -0.25
 				army_morale_factor = 0.1
 				land_reinforce_rate = 0.1
-				unity_factor = 0.3
+				stability_factor = 0.3
 			}
 			
 			picture = FRA_scw_intervention_republicans_focus
@@ -256,7 +256,7 @@ ideas = {
 			
 			modifier = {
 				nationalist_drift = -0.05
-				unity_factor = 0.1
+				stability_factor = 0.1
 			}
 			
 			picture = FRA_scw_intervention_republicans_focus
@@ -314,7 +314,7 @@ ideas = {
 				de_leonist_drift = 0.05
 				research_time_factor = -0.2
 				consumer_goods_factor = 0.3
-				unity_factor = -0.05
+				stability_factor = -0.05
 				production_speed_industrial_complex_factor = 0.15
 				political_power_cost = 0.25
 				industrial_capacity_factory = 0.1

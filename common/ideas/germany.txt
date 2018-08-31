@@ -15,7 +15,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = 0.1
+				stability_factor = 0.1
 				justify_war_goal_time = -0.15
 			}
 			rule = {

@@ -50,7 +50,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = -0.2
+				stability_factor = -0.2
 			}
 			
 			picture = FRA_national_mobilization_focus
@@ -175,7 +175,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				absolute_monarchist_drift_drift = -0.01
+				absolute_monarchist_drift = -0.01
 				strasserist_drift = -0.01
 				de_leonist_drift = -0.01
 				nationalist_drift = -0.01
@@ -198,7 +198,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				unity_factor = 0.1
+				stability_factor = 0.1
 			}
 			
 			picture = generic_victors_of_ww1

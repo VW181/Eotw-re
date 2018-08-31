@@ -48,7 +48,7 @@ ideas = {
 			
 			modifier = {
 				political_power_gain = -0.2
-				unity_factor = -0.02
+				stability_factor = -0.02
 				foreign_subversive_activites = 0.2
 			}
 			
@@ -155,7 +155,7 @@ ideas = {
 			modifier = {
 				consumer_goods_factor = -0.1
 				production_speed_industrial_complex_factor = 0.2
-				unity_factor = -0.1
+				stability_factor = -0.1
 			}
 			
 			
@@ -241,7 +241,7 @@ ideas = {
 			modifier = {
 				production_speed_industrial_complex_factor = 0.05
 				production_speed_arms_factory_factor = 0.05
-                unity_factor = 0.1
+                stability_factor = 0.1
 			}
 			
 			
@@ -270,7 +270,7 @@ ideas = {
 			modifier = {
 				production_speed_industrial_complex_factor = 0.15
 				production_speed_arms_factory_factor = 0.15
-                unity_factor = -0.1
+                stability_factor = -0.1
 			}
 			
 			
@@ -390,7 +390,7 @@ ideas = {
 			
 			modifier = {
 				research_time_factor = -0.15
-				unity_factor = 0.1
+				stability_factor = 0.1
 			}
 			
 			
@@ -419,7 +419,7 @@ ideas = {
 			modifier = {
 			    army_morale_Factor = 0.05
 				opinion_gain_monthly_factor = 0.05
-				unity_factor = 0.05
+				stability_factor = 0.05
 				foreign_subversive_activites = -0.3
 			}
 			
@@ -763,7 +763,7 @@ ideas = {
 			
 			modifier = {
 			    conscription = 0.05
-				unity_factor = -0.1
+				stability_factor = -0.1
 			}
 			
 			
