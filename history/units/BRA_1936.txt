@@ -1,5 +1,5 @@
-division_template = {
-	name = "Divis„o de Infanteria"		# Infantry Division
+Ôªødivision_template = {
+	name = "Divis√£o de Infanteria"		# Infantry Division
 
 	regiments = {
 		infantry = { x = 0 y = 0 }
@@ -16,7 +16,7 @@ division_template = {
  	}
 }
 division_template = {
-	name = "Divis„o de Cavalaria"  		# Cavalry Division
+	name = "Divis√£o de Cavalaria"  		# Cavalry Division
 
 	regiments = {
 		cavalry = { x = 0 y = 0 }
@@ -31,59 +31,59 @@ division_template = {
 }
 
 units = {
-	##### ExÈrcito Brasileiro #####
+	##### Ex√©rcito Brasileiro #####
 	division= {	
-		name = "1a Divis„o de Infanteria"
+		name = "1a Divis√£o de Infanteria"
 		location = 10980 # Rio de Janiero
-		division_template = "Divis„o de Infanteria"
+		division_template = "Divis√£o de Infanteria"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.5
 
 	}
 	division= {	
-		name = "2a Divis„o de Infanteria"
+		name = "2a Divis√£o de Infanteria"
 		location = 10513 # Sao Paulo
-		division_template = "Divis„o de Infanteria"
+		division_template = "Divis√£o de Infanteria"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.5
 
 	}
 	division= {	
-		name = "3a Divis„o de Infanteria"
+		name = "3a Divis√£o de Infanteria"
 		location = 10447 # Porto Alegre
-		division_template = "Divis„o de Infanteria"
+		division_template = "Divis√£o de Infanteria"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.5
 
 	}
 	division= {	
-		name = "4a Divis„o de Infanteria"
+		name = "4a Divis√£o de Infanteria"
 		location = 10946
-		division_template = "Divis„o de Infanteria"
+		division_template = "Divis√£o de Infanteria"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.5
 
 	}
 	division= {	
-		name = "5a Divis„o de Infanteria"
+		name = "5a Divis√£o de Infanteria"
 		location = 8242 # Belo Horizonte
-		division_template = "Divis„o de Infanteria"
+		division_template = "Divis√£o de Infanteria"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.5
 
 	}
 	division= {	
-		name = "1a Divis„o de Cavalaria"
+		name = "1a Divis√£o de Cavalaria"
 		location = 10926
-		division_template = "Divis„o de Cavalaria"
+		division_template = "Divis√£o de Cavalaria"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.5
 
 	}
 	division= {	
-		name = "2a Divis„o de Cavalaria"
+		name = "2a Divis√£o de Cavalaria"
 		location = 5156 # Curitiba
-		division_template = "Divis„o de Cavalaria"
+		division_template = "Divis√£o de Cavalaria"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.5
 
@@ -96,16 +96,16 @@ units = {
 		base = 10980 
 		location = 10980 # Rio de Janiero
 		ship = { name = "NRB Minas Gerais" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BRA } } }
-		ship = { name = "NRB S„o Paulo" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BRA } } }
+		ship = { name = "NRB S√£o Paulo" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BRA } } }
 		ship = { name = "NRB Bahia" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
 		ship = { name = "NRB Rio Grande do Sul" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
 		# 1a Flotilla de Contratorpedeiros
 		ship = { name = "NRB Piaui" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BRA } } }
 		ship = { name = "NRB Rio Grande do Norte" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BRA } } }
-		ship = { name = "NRB ParaÌba" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BRA } } }
+		ship = { name = "NRB Para√≠ba" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BRA } } }
 		ship = { name = "NRB Alagoas" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BRA } } }
 		# 2a Flotilla de Contratorpedeiros
-		ship = { name = "NRB Marnh„o" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BRA } } }	
+		ship = { name = "NRB Marnh√£o" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BRA } } }	
 		ship = { name = "NRB Sergipe" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BRA } } }
 		ship = { name = "NRB Santa Catharina" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BRA } } }
 		ship = { name = "NRB Mato Grosso" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BRA } } }
@@ -114,6 +114,6 @@ units = {
 		name = "Flotilha de Submarinos"			
 		base = 10980 
 		location = 10980 # Rio de Janiero
-		ship = { name = "NRB Humayt·" definition = submarine equipment = { submarine_1 = { amount = 1 owner = BRA } } }
+		ship = { name = "NRB Humayt√°" definition = submarine equipment = { submarine_1 = { amount = 1 owner = BRA } } }
 	}				
 }

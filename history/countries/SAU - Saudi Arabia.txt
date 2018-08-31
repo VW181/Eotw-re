@@ -1,4 +1,4 @@
-capital = 292
+﻿capital = 292
 
 set_stability = 0.09
 set_war_support = 0.04
@@ -54,8 +54,6 @@ set_convoys = 5
 		improved_machine_tools = 1
 		advanced_machine_tools = 1
 		synth_oil_experiments = 1
-		oil_plant = 1
-		improved_oil_plant = 1
 		construction1 = 1
 		construction2 = 1
 		dispersed_industry = 1
@@ -140,34 +138,5 @@ create_country_leader = {
 	ideology = religious_cultism
 	traits = {
 		#
-	}
-}
-
-1939.1.1 = {
-	set_politics = {
-
-		parties = {
-			democratic = { 
-				popularity = 0
-			}
-
-			fascism = {
-				popularity = 0
-			}
-			
-			communism = {
-				popularity = 0
-				#banned = no #default is no
-			}
-			
-			neutrality = { 
-				popularity = 100
-			}
-		}
-		
-		ruling_party = neutrality
-		last_election = "1936.1.1"
-		election_frequency = 48
-		elections_allowed = no
 	}
 }

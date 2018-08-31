@@ -1,4 +1,4 @@
-##### Division Templates #####
+ï»¿##### Division Templates #####
 division_template = {
 	name = "Division Infanterie"		
 	# Represents: Division Infanterie (Series A and B), Div. d'Inf. Coloniale, 
@@ -20,7 +20,7 @@ division_template = {
 	}
 }
 division_template = {
-	name = "Division Infanterie Motorisée"	# Division Infanterie Motorisée
+	name = "Division Infanterie MotorisÃ©e"	# Division Infanterie MotorisÃ©e
 
 	regiments = {
 		motorized = { x = 0 y = 0 }
@@ -71,7 +71,7 @@ division_template = {
 	}
 }
 division_template = {
-	name = "Division Légère Mécanique" 		# Division Légère Mécanique
+	name = "Division LÃ©gÃ¨re MÃ©canique" 		# Division LÃ©gÃ¨re MÃ©canique
 
 	regiments = {
 		light_armor = { x = 0 y = 0 }		# Bn. of Hotchkiss, then Souma (Med.) tanks
@@ -112,24 +112,24 @@ division_template = {
 ##### OOB #####
 units = {
     ###### Northern France Region #####
-	# VIe Corps d'Armée (Région Militaire in 1936) -- Metz
+	# VIe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Metz
 	division= {	
-		name = "42ème Division d'Infanterie"
+		name = "42Ã¨me Division d'Infanterie"
 		location = 11502
 		division_template = "Division Infanterie" 	# Frontline, best equipment
 		start_experience_factor = 0.3
 	}
 	
 	division= {	
-		name = "3ème Brigade de Chars de Combat"
+		name = "3Ã¨me Brigade de Chars de Combat"
 		location = 11502
 		division_template = "Brigade de Chars de Combat" 		# FT-17s
 		start_experience_factor = 0.2
 	}
 
-	# Xe Corps d'Armée (Région Militaire in 1936) -- Strassbourg
+	# Xe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Strassbourg
 	division= {	
-		name = "20ème Division d'Infanterie"
+		name = "20Ã¨me Division d'Infanterie"
 		location = 9503
 		division_template = "Division Infanterie" 	# Second line, reserve equipment
 		start_experience_factor = 0.2
@@ -137,15 +137,15 @@ units = {
 
 	}
 	division= {	
-		name = "43ème Division d'Infanterie"
+		name = "43Ã¨me Division d'Infanterie"
 		location = 6529
 		division_template = "Division Infanterie" 	# Frontline, best equipment
 		start_experience_factor = 0.3
 	}
 
-	# XXe Corps d'Armée (Région Militaire in 1936) -- Nancy
+	# XXe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Nancy
 	division= {	
-		name = "2ème Division d'Infanterie"
+		name = "2Ã¨me Division d'Infanterie"
 		location = 3629
 		division_template = "Division Infanterie" 	# Second line, reserve equipment
 		start_experience_factor = 0.2
@@ -153,14 +153,14 @@ units = {
 
 	}
 	division= {	
-		name = "11ème Division d'Infanterie"
+		name = "11Ã¨me Division d'Infanterie"
 		location = 549
 		division_template = "Division Infanterie" 	# Frontline, best equipment
 		start_experience_factor = 0.3
 	}
 	
 	division= {	
-		name = "2ème Division de Cavalerie"
+		name = "2Ã¨me Division de Cavalerie"
 		location = 11516
 		division_template = "Division de Cavalerie" 	
 		start_experience_factor = 0.2
@@ -168,21 +168,21 @@ units = {
 
 	}
 	division= {	
-		name = "2ème Brigade de Chars de Combat"
+		name = "2Ã¨me Brigade de Chars de Combat"
 		location = 11516
 		division_template = "Brigade de Chars de Combat" 		# FT-17s
 		start_experience_factor = 0.2
 	}
 
-	# Ie Corps d'Armée (Région Militaire in 1936) -- Lille
+	# Ie Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Lille
 	division= {	
-		name = "1ère Div. d'Infanterie Motorisée"
+		name = "1Ã¨re Div. d'Infanterie MotorisÃ©e"
 		location = 11483
-		division_template = "Division Infanterie Motorisée" 	# All motorized are frontline, best equipment
+		division_template = "Division Infanterie MotorisÃ©e" 	# All motorized are frontline, best equipment
 		start_experience_factor = 0.3
 	}
 	division= {	
-		name = "7ème Division d'Infanterie"
+		name = "7Ã¨me Division d'Infanterie"
 		location = 575
 		division_template = "Division Infanterie" 	# Second line, reserve equipment
 		start_experience_factor = 0.2
@@ -190,53 +190,53 @@ units = {
 
 	}
 
-	# IIe Corps d'Armée (Région Militaire in 1936) -- Amiens
+	# IIe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Amiens
 	division= {	
-		name = "3ème Div. d'Infanterie Motorisée"
+		name = "3Ã¨me Div. d'Infanterie MotorisÃ©e"
 		location = 454
-		division_template = "Division Infanterie Motorisée" 	# All motorized are frontline, best equipment
+		division_template = "Division Infanterie MotorisÃ©e" 	# All motorized are frontline, best equipment
 		start_experience_factor = 0.3
 	}
 
-	# IIIe Corps d'Armée (Région Militaire in 1936) -- Rouen
+	# IIIe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Rouen
 	division= {	
-		name = "5ème Div. d'Infanterie Motorisée"
+		name = "5Ã¨me Div. d'Infanterie MotorisÃ©e"
 		location = 11563
-		division_template = "Division Infanterie Motorisée" 	# All motorized are frontline, best equipment
+		division_template = "Division Infanterie MotorisÃ©e" 	# All motorized are frontline, best equipment
 		start_experience_factor = 0.3
 	}
 
-	# XIIe Corps d'Armée (Région Militaire in 1936) -- Reims
+	# XIIe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Reims
 	division= {	
-		name = "12ème Div. d'Infanterie Motorisée"
+		name = "12Ã¨me Div. d'Infanterie MotorisÃ©e"
 		location = 9472
-		division_template = "Division Infanterie Motorisée" 	# All motorized are frontline, best equipment
+		division_template = "Division Infanterie MotorisÃ©e" 	# All motorized are frontline, best equipment
 		start_experience_factor = 0.3
 	}
 	division= {	
-		name = "1ère Division Légère Mécanique"
+		name = "1Ã¨re Division LÃ©gÃ¨re MÃ©canique"
 		location = 13011
-		division_template = "Division Légère Mécanique" 	# DLM is frontline, best equipment, L Arm = H-35
+		division_template = "Division LÃ©gÃ¨re MÃ©canique" 	# DLM is frontline, best equipment, L Arm = H-35
 		start_experience_factor = 0.3
 	}
 
-	# IVe Corps d'Armée (Région Militaire in 1936) -- Le Mans
+	# IVe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Le Mans
 	division= {	
-		name = "19ème Division d'Infanterie"
+		name = "19Ã¨me Division d'Infanterie"
 		location = 3509
 		division_template = "Division Infanterie" 	# Frontline, best equipment
 		start_experience_factor = 0.3
 	}
 
-	# Ve Corps d'Armée (Région Militaire in 1936) -- Orleans
+	# Ve Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Orleans
 	division= {	
-		name = "9ème Div. d'Infanterie Motorisée"
+		name = "9Ã¨me Div. d'Infanterie MotorisÃ©e"
 		location = 3509
-		division_template = "Division Infanterie Motorisée" 	# All motorized are frontline, best equipment
+		division_template = "Division Infanterie MotorisÃ©e" 	# All motorized are frontline, best equipment
 		start_experience_factor = 0.3
 	}
 	division= {	
-		name = "1ère Division de Cavalerie"
+		name = "1Ã¨re Division de Cavalerie"
 		location = 3509
 		division_template = "Division de Cavalerie" 	
 		start_experience_factor = 0.2
@@ -244,17 +244,17 @@ units = {
 
 	}
 
-	# IXe Corps d'Armée (Région Militaire in 1936) -- Tours
+	# IXe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Tours
 	division= {	
-		name = "23ème Division d'Infanterie"
+		name = "23Ã¨me Division d'Infanterie"
 		location = 3671
 		division_template = "Division Infanterie" 	# Frontline, best equipment
 		start_experience_factor = 0.3
 	}
 	
-	# XIe Corps d'Armée (Région Militaire in 1936) -- Nantes
+	# XIe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Nantes
 	division= {	
-		name = "16ème Division d'Infanterie"
+		name = "16Ã¨me Division d'Infanterie"
 		location = 3552
 		division_template = "Division Infanterie" 	# Second line, reserve equipment
 		start_experience_factor = 0.2
@@ -262,21 +262,21 @@ units = {
 
 	}
 	division= {	
-		name = "21ème Division d'Infanterie"
+		name = "21Ã¨me Division d'Infanterie"
 		location = 6536
 		division_template = "Division Infanterie" 	# Frontline, best equipment
 		start_experience_factor = 0.3
 	}
 	division= {	
-		name = "5ème Brigade de Chars de Combat"
+		name = "5Ã¨me Brigade de Chars de Combat"
 		location = 11465
 		division_template = "Brigade de Chars de Combat" 		# R-35s
 		start_experience_factor = 0.2
 	}
 
-	# Région Militaire de Paris -- Paris
+	# RÃ©gion Militaire de Paris -- Paris
 	division= {	
-		name = "16ème Division d'Infanterie"
+		name = "16Ã¨me Division d'Infanterie"
 		location = 11506
 		division_template = "Division Infanterie" 	# Second line, reserve equipment
 		start_experience_factor = 0.2
@@ -284,7 +284,7 @@ units = {
 
 	}
 	division= {	
-		name = "3ème Division de Cavalerie"
+		name = "3Ã¨me Division de Cavalerie"
 		location = 11506
 		division_template = "Division de Cavalerie" 	
 		start_experience_factor = 0.2
@@ -292,7 +292,7 @@ units = {
 
 	}
 	division= {	
-		name = "5ème Division de Cavalerie"
+		name = "5Ã¨me Division de Cavalerie"
 		location = 11506
 		division_template = "Division de Cavalerie" 	
 		start_experience_factor = 0.2
@@ -300,7 +300,7 @@ units = {
 
 	}
 	division= {	
-		name = "4ème Brigade de Chars de Combat"
+		name = "4Ã¨me Brigade de Chars de Combat"
 		location = 11506
 		division_template = "Brigade de Chars de Combat" 		# R-35s
 		start_experience_factor = 0.2
@@ -308,15 +308,15 @@ units = {
 
 	}
 	
-	# VIIIe Corps d'Armée (Région Militaire in 1936) -- Dijon
+	# VIIIe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Dijon
 	division= {	
-		name = "15ème Div. d'Infanterie Motorisée"
+		name = "15Ã¨me Div. d'Infanterie MotorisÃ©e"
 		location = 3652
-		division_template = "Division Infanterie Motorisée" 	# All motorized are frontline, best equipment
+		division_template = "Division Infanterie MotorisÃ©e" 	# All motorized are frontline, best equipment
 		start_experience_factor = 0.3
 	}
 	division= {	
-		name = "24ème Division d'Infanterie"
+		name = "24Ã¨me Division d'Infanterie"
 		location = 3652
 		division_template = "Division Infanterie" 	# Second line, reserve equipment
 		start_experience_factor = 0.2
@@ -325,9 +325,9 @@ units = {
 	}
 	
 	### Southern France Region
-	# XIIIe Corps d'Armée (Région Militaire in 1936) -- Clermont-Ferrand
+	# XIIIe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Clermont-Ferrand
 	division= {	
-		name = "4ème Division d'Infanterie"
+		name = "4Ã¨me Division d'Infanterie"
 		location = 11576
 		division_template = "Division Infanterie" 	# Second line, reserve equipment
 		start_experience_factor = 0.2
@@ -335,7 +335,7 @@ units = {
 
 	}
 	division= {	
-		name = "18ème Division d'Infanterie"
+		name = "18Ã¨me Division d'Infanterie"
 		location = 11576
 		division_template = "Division Infanterie" 	# Second line, reserve equipment
 		start_experience_factor = 0.2
@@ -343,15 +343,15 @@ units = {
 
 	}
 	division= {	
-		name = "25ème Div. d'Infanterie Motorisée"
+		name = "25Ã¨me Div. d'Infanterie MotorisÃ©e"
 		location = 11576
-		division_template = "Division Infanterie Motorisée" 	# All motorized are frontline, best equipment
+		division_template = "Division Infanterie MotorisÃ©e" 	# All motorized are frontline, best equipment
 		start_experience_factor = 0.3
 	}
 
-	# XVIIe Corps d'Armée (Région Militaire in 1936) -- Toulouse
+	# XVIIe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Toulouse
 	division= {	
-		name = "22ème Division d'Infanterie"
+		name = "22Ã¨me Division d'Infanterie"
 		location = 6766
 		division_template = "Division Infanterie" 	# Second line, reserve equipment
 		start_experience_factor = 0.2
@@ -359,15 +359,15 @@ units = {
 
 	}
 	
-	# XVIIIe Corps d'Armée (Région Militaire in 1936) -- Bordeaux
+	# XVIIIe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Bordeaux
 	division= {	
-		name = "36ème Division d'Infanterie"
+		name = "36Ã¨me Division d'Infanterie"
 		location = 9737
 		division_template = "Division Infanterie" 	# Frontline, best equipment
 		start_experience_factor = 0.3
 	}
 	division= {	
-		name = "1ère Div. d'Inf. Coloniale"
+		name = "1Ã¨re Div. d'Inf. Coloniale"
 		location = 6657
 		division_template = "Division Infanterie" 	# Second line, reserve equipment
 		start_experience_factor = 0.2
@@ -375,15 +375,15 @@ units = {
 
 	}
 
-	# XIVe Corps d'Armée (Région Militaire in 1936) -- Lyon
+	# XIVe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Lyon
 	division= {	
-		name = "27ème Division d'Infanterie Alpine"
+		name = "27Ã¨me Division d'Infanterie Alpine"
 		location = 778
 		division_template = "Division d'Infanterie Alpine" 	# Frontline, best equipment
 		start_experience_factor = 0.3
 	}
 	division= {	
-		name = "30ème Division d'Infanterie Alpine"
+		name = "30Ã¨me Division d'Infanterie Alpine"
 		location = 9745
 		division_template = "Division d'Infanterie Alpine" 	# Second line, reserve equipment
 		start_experience_factor = 0.2
@@ -392,24 +392,24 @@ units = {
 	}
 	
 	division= {	
-		name = "1ère Brigade de Chars de Combat"
+		name = "1Ã¨re Brigade de Chars de Combat"
 		location = 6613
 		division_template = "Brigade de Chars de Combat" 			# FT-17s
 		start_experience_factor = 0.2
 	}
 
 
-	# XVe Corps d'Armée (Région Militaire in 1936) -- Marseille
+	# XVe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Marseille
 	division= {	
-		name = "29ème Division d'Infanterie Alpine"
+		name = "29Ã¨me Division d'Infanterie Alpine"
 		location = 6975
 		division_template = "Division d'Infanterie Alpine" 	# Frontline, best equipment
 		start_experience_factor = 0.3
 	}
 	
-	# XVIe Corps d'Armée (Région Militaire in 1936) -- Montpellier
+	# XVIe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Montpellier
 	division= {	
-		name = "31ème Division d'Infanterie Alpine"
+		name = "31Ã¨me Division d'Infanterie Alpine"
 		location = 9898
 		division_template = "Division d'Infanterie Alpine" 	# Frontline, best equipment
 		start_experience_factor = 0.3
@@ -427,9 +427,9 @@ units = {
     
 	##### North African Theatre #####
 	### Army: Troupes de Alger ###
-	# XIXe Corps d'Armée (Région Militaire in 1936) -- Alger
+	# XIXe Corps d'ArmÃ©e (RÃ©gion Militaire in 1936) -- Alger
 	division= {	
-		name = "1ère Bge. d'Infanterie Algérienne"
+		name = "1Ã¨re Bge. d'Infanterie AlgÃ©rienne"
 		location = 1145
 		division_template = "Brigade Coloniale" 	# Colonial unit, reserve equipment
 		force_equipment_variants = { infantry_equipment_0 = { owner = "FRA" } }
@@ -438,7 +438,7 @@ units = {
 
 	}
 	division= {	
-		name = "2ème Bge. d'Infanterie Algérienne"
+		name = "2Ã¨me Bge. d'Infanterie AlgÃ©rienne"
 		location = 1145
 		division_template = "Brigade Coloniale" 	# Colonial unit, reserve equipment
 		force_equipment_variants = { infantry_equipment_0 = { owner = "FRA" } }
@@ -447,7 +447,7 @@ units = {
 
 	}
 	division= {	
-		name = "4ème Bge. d'Infanterie Algérienne"
+		name = "4Ã¨me Bge. d'Infanterie AlgÃ©rienne"
 		location = 1145
 		division_template = "Brigade Coloniale" 	# Colonial unit, reserve equipment
 		force_equipment_variants = { infantry_equipment_0 = { owner = "FRA" } }
@@ -458,7 +458,7 @@ units = {
 	
 	### Army: Protectorat du Maroc ### -- Casablanca
 	division= {	
-		name = "Division de Meknès"
+		name = "Division de MeknÃ¨s"
 		location = 7069
 		division_template = "Brigade Coloniale" 	# Colonial unit, reserve equipment
 		force_equipment_variants = { infantry_equipment_0 = { owner = "FRA" } }
@@ -478,7 +478,7 @@ units = {
 	
 	### METRPOLITAN FRANCE ###
 	navy = {				
-		name = "1ère Région Navale"			
+		name = "1Ã¨re RÃ©gion Navale"			
 		base = 575
 		location = 575 # Dunkerque			
 		# 8e Division des Contre-Torpilleurs
@@ -486,10 +486,10 @@ units = {
 		ship = { name = "L'Audacieux" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = FRA } } }
 	}				
 	navy = {				
-		name = "2ème Région Navale"			
+		name = "2Ã¨me RÃ©gion Navale"			
 		base = 3552 
 		location = 3552 # Brest			
-		ship = { name = "Béarn" definition = carrier equipment = { carrier_1 = { amount = 1 owner = FRA } } 
+		ship = { name = "BÃ©arn" definition = carrier equipment = { carrier_1 = { amount = 1 owner = FRA } } 
 			air_wings = {
 				cv_fighter_equipment_0 =  { owner = "FRA" amount = 25 }
 				cv_nav_bomber_equipment_1 =  { owner = "FRA" amount = 20 }
@@ -498,30 +498,30 @@ units = {
 		# 2e Division des Contre-Torpilleurs
 		ship = { name = "Jaguar" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA version_name = "Chacal Class" } } }
 		ship = { name = "Chacal" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA version_name = "Chacal Class" } } }
-		ship = { name = "Léopard" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA version_name = "Chacal Class" } } }
-		ship = { name = "Panthère" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA version_name = "Chacal Class" } } }
-		# 2e Légère Division des Contre-Torpilleurs
+		ship = { name = "LÃ©opard" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA version_name = "Chacal Class" } } }
+		ship = { name = "PanthÃ¨re" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA version_name = "Chacal Class" } } }
+		# 2e LÃ©gÃ¨re Division des Contre-Torpilleurs
 		ship = { name = "Fougueux" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }	
 		ship = { name = "Frondeur" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }	
 		ship = { name = "L'Adroit" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }	
-		# 4e Légère Division des Contre-Torpilleurs
+		# 4e LÃ©gÃ¨re Division des Contre-Torpilleurs
 		ship = { name = "Bourrasque" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }	
 		ship = { name = "Ouragan" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
 		ship = { name = "Orage" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }	
-		# 5e Légère Division des Contre-Torpilleurs
+		# 5e LÃ©gÃ¨re Division des Contre-Torpilleurs
 		ship = { name = "Brestois" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }	
 		ship = { name = "Le Foudroyant" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }	
 		ship = { name = "Boulonnais" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }	
-		# 6e Légère Division des Contre-Torpilleurs
+		# 6e LÃ©gÃ¨re Division des Contre-Torpilleurs
 		ship = { name = "Cyclone" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
 		ship = { name = "Siroco" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }	
 		ship = { name = "Mistral" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }	
 	}				
 	navy = {				
-		name = "3ème Région Navale"			
+		name = "3Ã¨me RÃ©gion Navale"			
 		base = 911 
 		location = 911 # Toulon			
-		ship = { name = "Algérie" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = FRA } }	}	# Algerie variant		
+		ship = { name = "AlgÃ©rie" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = FRA } }	}	# Algerie variant		
 		ship = { name = "Foch" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = FRA } } }
 		ship = { name = "Dupleix" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = FRA } } }
 		ship = { name = "Colbert" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = FRA } } }
@@ -540,65 +540,65 @@ units = {
 		ship = { name = "Vautour" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA version_name = "Agile & Vauquelin Class" } } }
 		# 9e Division des Contre-Torpilleurs
 		ship = { name = "Cassard" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA version_name = "Agile & Vauquelin Class" } } }
-		ship = { name = "Maillé Brézé" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA version_name = "Agile & Vauquelin Class" } } }
+		ship = { name = "MaillÃ© BrÃ©zÃ©" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA version_name = "Agile & Vauquelin Class" } } }
 		ship = { name = "Kersaint" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA version_name = "Agile & Vauquelin Class" } } }
 	}				
 	navy = {				
-		name = "3ème Escadron Soumarins"			
+		name = "3Ã¨me Escadron Soumarins"			
 		base = 911 
 		location = 911 # Toulon			
 		# 1e Division des Sous-Marins
 		ship = { name = "Le Glorieux" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
 		# 3 Division des Sous-Marins
-		ship = { name = "Protée" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
-		ship = { name = "Actéon" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
+		ship = { name = "ProtÃ©e" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
+		ship = { name = "ActÃ©on" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
 		ship = { name = "Fresnel" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
-		ship = { name = "Achéron" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
+		ship = { name = "AchÃ©ron" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
 		# 5e Division des Sous-Marins
 		ship = { name = "L`Espoire" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
-		ship = { name = "Pégase" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
+		ship = { name = "PÃ©gase" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
 		ship = { name = "Monge" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
 	}				
 	navy = {				
-		name = "4ème Escadron Soumarins"			
+		name = "4Ã¨me Escadron Soumarins"			
 		base = 3552 
 		location = 3552 # Brest			
 		# 2e Division des Sous-Marins
 		ship = { name = "Pasteur" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
 		ship = { name = "Achille" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
 		# 6e Division des Sous-Marins
-		ship = { name = "Persée" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
+		ship = { name = "PersÃ©e" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
 		ship = { name = "Poncelet" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
 		ship = { name = "Ajax" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
-		ship = { name = "Archimède" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
+		ship = { name = "ArchimÃ¨de" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
 		# 8e Division des Sous-Marins
 		ship = { name = "Surcouf" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
-		ship = { name = "Phénix" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
+		ship = { name = "PhÃ©nix" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
 	}				
 	navy = {				
-		name = "5ème Escadron Soumarins"			
+		name = "5Ã¨me Escadron Soumarins"			
 		base = 911 
 		location = 911 # Toulon			
 		# 7e Division des Sous-Marins
 		ship = { name = "Redoutable" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
 		ship = { name = "Vengeur" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "Redoutable Class" } } }
 		# 13e Division des Sous-Marins
-		ship = { name = "Circé" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
+		ship = { name = "CircÃ©" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
 		ship = { name = "Calypso" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
-		ship = { name = "Thétis" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
+		ship = { name = "ThÃ©tis" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
 		ship = { name = "Doris" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
 		# 15e Division des Sous-Marins
 		ship = { name = "Argonaute" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "630 Series" } } }
-		ship = { name = "Sirène" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
-		ship = { name = "Naïade" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
-		ship = { name = "Galathée" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
+		ship = { name = "SirÃ¨ne" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
+		ship = { name = "NaÃ¯ade" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
+		ship = { name = "GalathÃ©e" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
 	}				
 	navy = {				
 		name = "Soumarins Force du Nord"			
 		base = 575
 		location = 575 # Dunkerque			
 		# 16e Division des Sous-Marins
-		ship = { name = "Orphée" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "630 Series" } } }
+		ship = { name = "OrphÃ©e" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "630 Series" } } }
 		ship = { name = "Amazone" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "630 Series" } } }
 		ship = { name = "La Sybille" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "630 Series" } } }
 		ship = { name = "Antiope" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "630 Series" } } }
@@ -606,7 +606,7 @@ units = {
 	
 	### Air Wings
 air_wings = {
-	# Z.d'Op. Aériennes Nord -- Lille
+	# Z.d'Op. AÃ©riennes Nord -- Lille
 	29 = { 
 		# Groupement de Chasse 21 
 		# Groupement de Chasse 23
@@ -622,7 +622,7 @@ air_wings = {
 		}
 	}
 
-	# Z.d'Op. Aériennes Est -- Reims
+	# Z.d'Op. AÃ©riennes Est -- Reims
 	18 = {
 		# Groupement de Chasse 22
 		fighter_equipment_0 = {
@@ -631,7 +631,7 @@ air_wings = {
 		}
 	}
 
-	# Z.d'Op. Aériennes du Alps -- Marseille
+	# Z.d'Op. AÃ©riennes du Alps -- Marseille
 	21 = {
 		# Groupement de Chasse d'Alps
 		fighter_equipment_0 = {

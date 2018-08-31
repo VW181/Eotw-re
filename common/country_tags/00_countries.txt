@@ -96,3 +96,4 @@ LAO = "countries/Laos.txt"
 MNT = "countries/Montenegro.txt"
 #KAZ = "countries/Kazakhstan.txt" #For a later time
 AZR = "countries/Azerbaijan.txt"
+BLR = "countries/Belarus.txt"
