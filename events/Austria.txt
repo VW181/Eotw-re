@@ -548,7 +548,7 @@ country_event = {
 		name = austria.19.a
 		annex_country = { target = HUN transfer_troops = yes }
 		add_political_power = 100
-		add_ideas = AUS_austria_hungary_focus
+		add_ideas = AUS_austria_hungary_focus_idea
 		hidden_effect = {
 			every_state = {
 				limit = {
@@ -584,7 +584,7 @@ country_event = {
 			country_event = { id = austria.22 }
 		}
 		effect_tooltip = {
-			add_ideas = AUS_under_austrian_protection
+			add_ideas = AUS_under_austrian_protection_idea
 			AUS = {
 				give_guarantee = ROM
 			}
@@ -650,7 +650,7 @@ country_event = {
 		name = austria.22.a
 		give_guarantee = ROM
 		ROM = {
-			add_ideas = AUS_under_austrian_protection
+			add_ideas = AUS_under_austrian_protection_idea
 		}
 		ai_chance = {
 			base = 100
@@ -1603,10 +1603,10 @@ country_event = {
 		}
 		add_ideas = de_leonist_union_member
 		every_country = {
-		    NOT = { tag = AUS }
+			limit = { capital_scope = { is_on_continent = europe } }
+			NOT = { tag = AUS }
 			NOT = { tag = FRA }
 			NOT = { has_idea = european_union_member }
-			limit = { capital_scope = { is_on_continent = europe } }
 			country_event = austria.43
 		}
 		add_named_threat = { threat = -25 name = de_leonist_union }
@@ -1742,7 +1742,7 @@ country_event = {
 			add_stability = -0.1
 		}
 		AUS = {
-			declare_war_on = { target = TUR type = puppet }
+			declare_war_on = { target = TUR type = puppet_wargoal_focus }
 		}
 	}
 }
@@ -1775,7 +1775,7 @@ country_event = {
 			add_stability = -0.02
 		}
 		AUS = {
-			declare_war_on = { target = TUR type = puppet }
+			declare_war_on = { target = TUR type = puppet_wargoal_focus }
 		}
 	}
 }
@@ -1805,7 +1805,7 @@ country_event = {
 			}
 		}
 		AUS = {
-			declare_war_on = { target = TUR type = puppet }
+			declare_war_on = { target = TUR type = puppet_wargoal_focus }
 		}
 	}
 }
@@ -1832,7 +1832,7 @@ country_event = {
 			add_stability = 0.1
 		}
 		AUS = {
-			declare_war_on = { target = TUR type = puppet }
+			declare_war_on = { target = TUR type = puppet_wargoal_focus }
 		}
 	}
 }
