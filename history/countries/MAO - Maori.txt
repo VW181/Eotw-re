@@ -1,5 +1,8 @@
 capital = 284
 
+set_stability = 0.92
+set_war_support = 0.02
+
 oob = "generic_1936"
 
 set_technology = {

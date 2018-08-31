@@ -1,5 +1,8 @@
 capital = 55
 
+set_stability = 0.15
+set_war_support = 0.32
+
 oob = "RHN_1936"
 
 set_research_slots = 3
@@ -217,6 +220,6 @@ create_country_leader = {
 }
 
 set_convoys = 100
-set_national_unity = 0.8
+
 
 

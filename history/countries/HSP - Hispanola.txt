@@ -1,5 +1,8 @@
 capital = 318
 
+set_stability = 0.35
+set_war_support = 0.87
+
 oob = "HSP_1936"
 
 # Starting tech

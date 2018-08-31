@@ -1,5 +1,8 @@
 capital = 282
 
+set_stability = 0.74
+set_war_support = 0.51
+
 oob = "JAP_1936"
 
 set_national_unity = 0.65

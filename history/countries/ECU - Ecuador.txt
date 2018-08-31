@@ -1,5 +1,8 @@
 capital = 305
 
+set_stability = 0.50
+set_war_support = 0.50
+
 oob = "ECU_1936"
 
 # Starting tech

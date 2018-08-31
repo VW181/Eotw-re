@@ -1,5 +1,8 @@
 capital = 141	
 
+set_stability = 0.75
+set_war_support = 0.34
+
 oob = "SWE_1936"
 
 set_research_slots = 3
@@ -181,7 +184,6 @@ add_ideas = {
 }
 
 set_convoys = 25
-set_national_unity = 0.9
 
 
 

@@ -2,6 +2,9 @@ capital = 333
 
 oob = "BRN_1936"
 
+set_stability = 0.25
+set_war_support = 0.09
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

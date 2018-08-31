@@ -1,5 +1,8 @@
 capital = 670
 
+set_stability = 0.11
+set_war_support = 0.32
+
 oob = "ICH_1936"
 
 # Starting tech

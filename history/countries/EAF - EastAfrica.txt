@@ -1,5 +1,9 @@
 capital = 546
 
+set_stability = 0.00
+set_war_support = 0.00
+
+
 oob = "EAF_1936"
 
 # Starting tech

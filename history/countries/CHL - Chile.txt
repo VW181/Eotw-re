@@ -2,6 +2,9 @@ capital = 279
 
 oob = "CHL_1936"
 
+set_stability = 0.59
+set_war_support = 0.87
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

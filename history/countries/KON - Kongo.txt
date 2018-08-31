@@ -1,5 +1,8 @@
 capital = 295
 
+set_stability = 0.00
+set_war_support = 0.00
+
 oob = "KON_1936"
 
 # Starting tech

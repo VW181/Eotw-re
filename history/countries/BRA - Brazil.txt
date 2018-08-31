@@ -1,5 +1,7 @@
 capital = 500
 
+set_stability = 0.29
+set_war_support = 0.71
 
 oob = "BRA_1936"
 

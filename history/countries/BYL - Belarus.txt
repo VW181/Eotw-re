@@ -2,6 +2,9 @@ capital = 206
 
 oob = "BYL_1936"
 
+set_stability = 0.50
+set_war_support = 0.50
+
 set_research_slots = 3
 
 # Starting tech

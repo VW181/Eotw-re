@@ -1,5 +1,8 @@
 capital = 671
 
+set_stability = 0.50
+set_war_support = 0.50
+
 oob = "DAI_1936"
 
 # Starting tech

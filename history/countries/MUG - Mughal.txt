@@ -1,5 +1,8 @@
 capital = 439
 
+set_stability = 0.61
+set_war_support = 0.57
+
 oob = "MUG_1936"
 
 

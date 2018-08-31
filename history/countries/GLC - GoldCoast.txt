@@ -1,5 +1,9 @@
 capital = 274
 
+set_stability = 0.00
+set_war_support = 0.00
+
+
 oob = "GLC_1936"
 
 # Starting tech

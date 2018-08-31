@@ -1,5 +1,8 @@
 capital = 10
 
+set_stability = 0.71
+set_war_support = 0.28
+
 oob = "POL_1936"
 
 set_research_slots = 2

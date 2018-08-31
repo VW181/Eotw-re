@@ -1,5 +1,8 @@
 capital = 65
 
+set_stability = 0.35
+set_war_support = 0.28
+
 oob = "SNY_1936"
 
 set_research_slots = 3

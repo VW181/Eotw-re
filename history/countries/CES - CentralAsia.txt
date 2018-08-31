@@ -2,6 +2,9 @@ capital = 405
 
 oob = "CES_1936"
 
+set_stability = 0.25
+set_war_support = 0.45
+
 set_technology = {
 	infantry_weapons = 1
 	tech_support = 1

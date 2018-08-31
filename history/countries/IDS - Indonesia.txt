@@ -1,5 +1,8 @@
 capital = 335 #Jakarta
 
+set_stability = 0.11
+set_war_support = 0.32
+
 oob = "generic_1936"
 
 set_research_slots = 3

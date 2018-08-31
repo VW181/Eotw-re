@@ -1,5 +1,8 @@
 capital = 79
 
+set_stability = 0.54
+set_war_support = 0.29
+
 oob = "ROM_1936"
 
 set_research_slots = 3

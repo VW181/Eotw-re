@@ -1,5 +1,8 @@
 capital = 498
 
+set_stability = 0.82
+set_war_support = 0.35
+
 
 oob = "RIO_1936"
 

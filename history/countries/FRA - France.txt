@@ -135,7 +135,9 @@ set_technology = {
 }
 
 set_convoys = 300
-set_national_unity = 0.4
+set_stability = 0.50
+set_war_support = 0.50
+
 
 set_politics = {
 

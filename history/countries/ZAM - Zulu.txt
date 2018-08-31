@@ -1,5 +1,8 @@
 capital = 545
 
+set_stability = 0.04
+set_war_support = 0.03
+
 oob = "ZAM_1936"
 
 # Starting tech

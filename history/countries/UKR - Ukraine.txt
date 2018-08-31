@@ -1,5 +1,8 @@
 capital = 202
 
+set_stability = 0.61
+set_war_support = 0.41
+
 oob = "UKR_1936"
 
 set_research_slots = 3

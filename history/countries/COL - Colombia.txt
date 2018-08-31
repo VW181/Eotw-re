@@ -1,5 +1,8 @@
 capital = 306
 
+set_stability = 0.36
+set_war_support = 0.54
+
 oob = "COL_1936"
 
 # Starting tech

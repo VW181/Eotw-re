@@ -1,5 +1,8 @@
 capital = 292
 
+set_stability = 0.09
+set_war_support = 0.04
+
 oob = "SAU_1936"
 
 # Starting tech

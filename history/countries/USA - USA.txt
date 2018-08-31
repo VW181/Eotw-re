@@ -1,5 +1,8 @@
 capital = 361
 
+set_stability = 0.85
+set_war_support = 0.42
+
 oob = "USA_1936"
 
 set_research_slots = 4

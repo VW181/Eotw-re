@@ -1,5 +1,8 @@
 capital = 64
 
+set_stability = 0.81
+set_war_support = 0.43
+
 oob = "PRS_1936"
 
 set_research_slots = 3
