@@ -185,7 +185,7 @@ focus_tree = {
 		y = 3
 		cost = 10
 		completion_reward = {
-		    add_national_unity = 0.1
+		    add_stability = 0.1
 		}
 	}
 	
@@ -201,7 +201,7 @@ focus_tree = {
 		y = 3
 		cost = 10
 		completion_reward = {
-		    add_national_unity = 0.1
+		    add_stability = 0.1
 		}
 	}
 	
@@ -282,7 +282,7 @@ focus_tree = {
 				type = puppet_wargoal_focus
 				target = USA
 			}
-			add_national_unity = 0.1
+			add_stability = 0.1
 		}
 		
 	}

@@ -247,7 +247,7 @@ focus_tree = {
 				uses = 3
 				category = industry
 			}
-			add_national_unity = -0.1
+			add_stability = -0.1
 		}
 	}
 	
@@ -264,7 +264,7 @@ focus_tree = {
 				idea = happy_scientists_idea
 				days = 50
 			}
-			add_national_unity = 0.05
+			add_stability = 0.05
 		}
 	}
 	
@@ -281,7 +281,7 @@ focus_tree = {
 				idea = stressed_workers_idea
 				days = 50
 			}
-			add_national_unity = -0.05
+			add_stability = -0.05
 		}
 	}
 	
@@ -929,7 +929,7 @@ focus_tree = {
 		completion_reward = {
 		    custom_effect_tooltip = SOV_religions_banned_chain
 			SOV = { country_event = { id = russia.2 days = 80 } }
-			add_national_unity = -0.05
+			add_stability = -0.05
 		}
 	}
 	
@@ -959,7 +959,7 @@ focus_tree = {
 			    ideology = theoconservative
 			    popularity = 0.15
 		    }
-			add_national_unity = 0.05
+			add_stability = 0.05
 		}
 	}
 	
@@ -1733,7 +1733,7 @@ focus_tree = {
 		y = 14
 		cost = 10
 		completion_reward = {
-		    add_national_unity = 0.1
+		    add_stability = 0.1
 		}
 	}
 	

@@ -30,7 +30,7 @@ focus_tree = {
 		y = 1
 		cost = 10
 		completion_reward = {
-		    add_national_unity = 0.05
+		    add_stability = 0.05
 		}
 	}
 	
@@ -43,7 +43,7 @@ focus_tree = {
 		y = 1
 		cost = 10
 		completion_reward = {
-		    add_national_unity = 0.05
+		    add_stability = 0.05
 		}
 	}
 	
@@ -415,7 +415,7 @@ focus_tree = {
 		    SOV = {
 				country_event = sweden.14
 			}
-			add_national_unity = 0.05
+			add_stability = 0.05
 			add_political_power = 100
 		}
 	}
@@ -935,7 +935,7 @@ focus_tree = {
 		y = 2
 		cost = 10
 		completion_reward = {
-		    add_national_unity = 0.05
+		    add_stability = 0.05
 		}
 	}
 	
@@ -969,7 +969,7 @@ focus_tree = {
 		y = 2
 		cost = 10
 		completion_reward = {
-		    add_national_unity = 0.05
+		    add_stability = 0.05
 			add_popularity = {
 				ideology = ROOT
 				popularity = 0.05
@@ -1101,7 +1101,7 @@ focus_tree = {
 		y = 2
 		completion_reward = {
 		    army_experience = 15
-			add_national_unity = 0.03
+			add_stability = 0.03
 		}
 	}
 	
