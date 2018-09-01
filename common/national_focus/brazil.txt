@@ -30,7 +30,7 @@ focus_tree = {
 		y = 1
 		cost = 10
 		completion_reward = {
-		    add_national_unity = -0.1
+		    add_stability = 0.1
 		}
 	}
 	
@@ -43,7 +43,7 @@ focus_tree = {
 		y = 1
 		cost = 10
 		completion_reward = {
-		    add_national_unity = -0.1
+		    add_stability = 0.1
 		}
 	}
 	
@@ -227,7 +227,7 @@ focus_tree = {
 				}
 			}
 			if = {
-			    limit = { NOT = { has_ideas = disappointed_industrialists } }
+			    limit = { NOT = { has_idea = disappointed_industrialists } }
 				add_ideas = disappointed_industrialists
 			}
 		}
@@ -270,7 +270,7 @@ focus_tree = {
 				}
 			}
 			if = {
-			    limit = { NOT = { has_ideas = disappointed_industrialists } }
+			    limit = { NOT = { has_idea = disappointed_industrialists } }
 				add_ideas = disappointed_industrialists
 			}
 		}

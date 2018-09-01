@@ -251,7 +251,7 @@ focus_tree = {
 				uses = 1
 				category = land_doctrine
 			}
-			add_national_unity = 0.1
+			add_stability = 0.1
 		}
 	}
 	
@@ -942,7 +942,7 @@ focus_tree = {
 		mutually_exclusive = { focus = CHI_a_japanese_woman }
 		available = {
 		    NOT = {
-			    at_war_with = FRA
+			    at_war = FRA
 			}
 		}
 		x = 37
@@ -965,7 +965,7 @@ focus_tree = {
 		y = 5
 		cost = 10
 		completion_reward = {
-		    add_national_unity = 0.05
+		    add_stability = 0.05
 		}
 	}
 	
@@ -1054,7 +1054,7 @@ focus_tree = {
 		y = 4
 		cost = 10
 		completion_reward = {
-		    add_national_unity = 0.1
+		    add_stability = 0.1
 		}
 	}
 	
@@ -1132,7 +1132,7 @@ focus_tree = {
 		y = 5
 		cost = 10
 		completion_reward = {
-		    add_national_unity = -0.05
+		    add_stability = -0.05
 		}
 	}
 	
@@ -1212,7 +1212,7 @@ focus_tree = {
 		y = 6
 		cost = 10
 		completion_reward = {
-		    add_national_unity = 0.1
+		    add_stability = 0.1
 		}
 	}
 	
@@ -1259,7 +1259,7 @@ focus_tree = {
 			    ideology = democratic_socialist
 			    popularity = 0.6
 		    }
-			add_national_unity = -0.05
+			add_stability = -0.05
 			every_country = {
 				limit = { has_government = democratic_socialist }
 				add_opinion_modifier = { target = CHI modifier = socialist_china }
@@ -1449,7 +1449,7 @@ focus_tree = {
 		available = {
 		    ENG = { is_in_faction = no }
 			NOT = {
-			    at_war_with = ENG
+			    at_war = ENG
 			}
 		}
 		x = 51
@@ -1477,7 +1477,7 @@ focus_tree = {
 		available = {
 		    SOV = { is_in_faction = no }
 			NOT = {
-			    at_war_with = SOV
+			    at_war = SOV
 			}
 		}
 		x = 49
@@ -1505,7 +1505,7 @@ focus_tree = {
 		available = {
 		    AST = { is_in_faction = no }
 			NOT = {
-			    at_war_with = AST
+			    at_war = AST
 			}
 		}
 		x = 53

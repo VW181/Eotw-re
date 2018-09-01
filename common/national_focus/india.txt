@@ -204,7 +204,7 @@ focus_tree = {
 		x = 24
 		y = 3
 		completion_reward = {
-			add_national_unity = 0.02
+			add_stability = 0.02
 			add_political_power = 40
 			add_popularity = {
 				ideology = americanist
@@ -971,7 +971,7 @@ focus_tree = {
 		x = 14
 		y = 4
 		completion_reward = {
-			add_national_unity = 0.03
+			add_stability = 0.03
 			add_political_power = 120
 			add_popularity = {
 				ideology = georgist
@@ -1756,7 +1756,7 @@ focus_tree = {
 				ideology = absolute_monarchist
 				popularity = 0.1
 			}
-			add_national_unity = 0.1
+			add_stability = 0.1
 			add_political_power = 50
 		}
 	}
@@ -1774,7 +1774,7 @@ focus_tree = {
 				ideology = de_leonist
 				popularity = 0.1
 			}
-			add_national_unity = 0.1
+			add_stability = 0.1
 			add_political_power = 50
 		}
 	}
@@ -1807,7 +1807,7 @@ focus_tree = {
 		y = 3
 		cost = 10
 		completion_reward = {
-		    add_national_unity = 0.02
+		    add_stability = 0.02
 			add_popularity = {
 				ideology = absolute_monarchist
 				popularity = 0.1
@@ -1969,7 +1969,7 @@ focus_tree = {
 		cost = 10
 		completion_reward = {
 		    add_ideas = french_influence_de_leonist
-			add_national_unity = -0.1
+			add_stability = -0.1
 			add_political_power = -10
 		}
 	}

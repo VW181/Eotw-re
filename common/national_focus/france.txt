@@ -60,7 +60,7 @@ focus_tree = {
 		    every_country = {
 				add_opinion_modifier = { target = FRA modifier = french_ambitions }  
 			} 
-			add_national_unity = 0.05
+			add_stability = 0.05
 		}
 		ai_will_do = {
 			factor = 12
@@ -592,7 +592,7 @@ focus_tree = {
 		y = 8
 		cost = 10
 		completion_reward = {
-		    add_national_unity = 0.05
+		    add_stability = 0.05
 			add_political_power = 50 
 			army_experience = 20 
 			air_experience = 20
@@ -1663,7 +1663,7 @@ focus_tree = {
 		y = 5
 		cost = 10
 		completion_reward = {
-		    add_national_unity = 0.05
+		    add_stability = 0.05
 			add_tech_bonus = {
 				name = support_bonus
 				bonus = 0.5
