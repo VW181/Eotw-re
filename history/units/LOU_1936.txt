@@ -1,4 +1,4 @@
-division_template = {
+ï»¿division_template = {
 	name = "Louisiana Coloniaux"	
 	regiments = {
 		infantry = { x = 0 y = 0 }
@@ -12,7 +12,7 @@ division_template = {
 
 units = {
     division= {	
-		name = "1ère Armée"
+		name = "1Ã¨re ArmÃ©e"
 		location = 7552
 		division_template = "Louisiana Coloniaux"
 		start_experience_factor = 0.2
@@ -20,7 +20,7 @@ units = {
 	}
 	
 	division= {	
-		name = "2ère Armée"
+		name = "2Ã¨re ArmÃ©e"
 		location = 4569
 		division_template = "Louisiana Coloniaux"
 		start_experience_factor = 0.2
@@ -28,7 +28,7 @@ units = {
 	}
 	
 	division= {	
-		name = "3ère Armée"
+		name = "3Ã¨re ArmÃ©e"
 		location = 4569
 		division_template = "Louisiana Coloniaux"
 		start_experience_factor = 0.2
@@ -36,7 +36,7 @@ units = {
 	}
 	
 	division= {	
-		name = "4ère Armée"
+		name = "4Ã¨re ArmÃ©e"
 		location = 1806
 		division_template = "Louisiana Coloniaux"
 		start_experience_factor = 0.2

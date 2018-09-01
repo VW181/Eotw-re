@@ -1,5 +1,5 @@
-division_template = {
-	name = "Juntu�n"				
+﻿division_template = {
+	name = "Juntuán"				
 									
 	regiments = {					
 		infantry = { x = 0 y = 0 }	
@@ -46,175 +46,175 @@ units = {
     division = {
 		name = "37 Bubing Shi"
 		location = 10433 #Harbin
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 4925 #Chengdu
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 4925 #Chengdu
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 7137 #Nanning
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 7137 #Nanning
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 7191 #Hangzhou
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 12189 #Khabarovsk
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 11752 #Zhangbei
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 11752 #Zhangbei
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 6981 #Korean Border
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 4709 #Urumqi
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 7727 #Mongolian Border
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 12690 #Mongolian Border
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 12690 #Mongolian Border
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 957 #Vladivistok
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 7965 #Dali
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 7965 #Dali
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 1319 #Kunming
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 7097 #Changsha
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 7191 #Hangzhou
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 10076 #Near Shanghai
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 10000 #Qingdao
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 1150 #Dalian
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 10068 #Tianjin
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	
 	division = {
 		name = "37 Bubing Shi"
 		location = 10068 #Tianjin
-		division_template = "Juntu�n"
+		division_template = "Juntuán"
 		start_experience_factor = 0.1
 	}
 	

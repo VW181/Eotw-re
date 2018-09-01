@@ -56,9 +56,9 @@ units = {
 		name = "Jauns Zemudens Flote"			
 		base = 6314
 		location = 6314	
-		ship = { name = "Dzili Nave" definition = submarine equipment = { submarine_1 = { amount = 1 owner = BTC version_name = "630 Series" } } }
-		ship = { name = "Baltic Sapnis" definition = submarine equipment = { submarine_1 = { amount = 1 owner = BTC version_name = "630 Series" } } }
-		ship = { name = "Torpedu" definition = submarine equipment = { submarine_1 = { amount = 1 owner = BTC version_name = "630 Series" } } }
+		ship = { name = "Dzili Nave" definition = submarine equipment = { submarine_1 = { amount = 1 owner = BTC } } }
+		ship = { name = "Baltic Sapnis" definition = submarine equipment = { submarine_1 = { amount = 1 owner = BTC } } }
+		ship = { name = "Torpedu" definition = submarine equipment = { submarine_1 = { amount = 1 owner = BTC } } }
 	}
 
 

@@ -1,4 +1,4 @@
-capital = 683
+capital = 476
 
 oob = "CAN_1936"
 
@@ -18,6 +18,7 @@ set_technology = {
 	naval_bomber1 = 1
 	early_bomber = 1
 	early_destroyer = 1
+	basic_destroyer = 1
 	early_light_cruiser = 1
 	transport = 1
 	trench_warfare = 1
@@ -286,30 +287,4 @@ create_navy_leader = {
 	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
 	traits = { spotter }
 	skill = 4
-}
-
-### Ship Variants ###
-
-create_equipment_variant = {
-	name = "Sanguenay Class"
-	type = destroyer_1
-	upgrades = {
-		ship_torpedo_upgrade = 1
-		destroyer_engine_upgrade = 1
-		ship_ASW_upgrade = 1
-		ship_anti_air_upgrade = 1
-	}
-}
-
-1939.1.1 = {
-	create_equipment_variant = {
-		name = "Athabaskan Class"
-		type = destroyer_1
-		upgrades = {
-			ship_torpedo_upgrade = 2
-			destroyer_engine_upgrade = 2
-			ship_ASW_upgrade = 2
-			ship_anti_air_upgrade = 2
-		}
-	}
 }

@@ -1,6 +1,6 @@
-##### Division Templates #####
+ï»¿##### Division Templates #####
 division_template = {
-	name = "Divizioni i Këmbësorisë"	
+	name = "Divizioni i KÃ«mbÃ«sorisÃ«"	
 	regiments = {
 		infantry = { x = 0 y = 0 }
 		infantry = { x = 0 y = 1 }
@@ -26,21 +26,21 @@ division_template = {
 ##### OOB #####
 units = {
     division= {	
-		name = "Roje Mbretërore Kapitale"
+		name = "Roje MbretÃ«rore Kapitale"
 		location = 9914 #Tirana
-		division_template = "Divizioni i Këmbësorisë" 	
+		division_template = "Divizioni i KÃ«mbÃ«sorisÃ«" 	
 		start_experience_factor = 0.3
 	}
 	
 	division= {	
-		name = "Ushtria e Kosovës"
+		name = "Ushtria e KosovÃ«s"
 		location = 9849
 		division_template = "Ndarja Malore" 	
 		start_experience_factor = 0.3
 	}
 	
 	division= {	
-		name = "Ushtria Mbretërore Jugore"
+		name = "Ushtria MbretÃ«rore Jugore"
 		location = 841
 		division_template = "Ndarja Malore" 	
 		start_experience_factor = 0.3

@@ -19,6 +19,7 @@ set_technology = {
 	early_submarine = 1
 	basic_submarine = 1
 	early_destroyer = 1
+	basic_destroyer = 1
 	transport = 1
 	motorised_infantry = 1
 	tech_mountaineers = 1

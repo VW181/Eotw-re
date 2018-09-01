@@ -1,4 +1,4 @@
-##### Division Templates #####
+﻿##### Division Templates #####
 division_template = {
 	name = "Nationale Infanterie"		
 	regiments = {
@@ -56,13 +56,6 @@ units = {
 		location = 514
 		division_template = "Nationale Infanterie" 	
 		start_experience_factor = 0.3
-	}
-	
-	division= {	
-		name = "1. Infanterie"
-		location = 
-		division_template = "" 	
-		start_experience_factor = 0.1
 	}
 	
 	division= {	
