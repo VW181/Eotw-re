@@ -1,6 +1,6 @@
 state={
-	id=743
-	name="Stalinabad"
+	id=742
+	name="STATE_742"
 
 	history={
 		owner = CES

@@ -5,8 +5,8 @@ state={
 	
 	name="STATE_545"
 	resources={
-		chromium=64.000
-		tungsten=16.000
+		chromium=35 # was: 64.000
+		tungsten=8 # was: 16.000
 	}
 
 	history={
@@ -18,12 +18,12 @@ state={
 		victory_points = {
 			10929 1 
 		}
-
+		add_core_of = ZAM
 	}
 
 	provinces={
-		1874 2151 2216 4851 7842 10929 13173 
+		 1874 2151 2216 4851 7842 10538 10929
 	}
-	manpower=3600000
+	manpower=4155400
 	buildings_max_level_factor=1.000
 }

@@ -1,12 +1,12 @@
 state={
-	id=759
-	name="STATE_759"
+	id=751
+	name="STATE_751"
 	provinces={
-		1698 1943 2074 4947 5736 10315 
+		1999 2067 4999 7294 10726 10841 12141 12819 
 	}
-	manpower=70000
+	manpower=300000
 	buildings_max_level_factor=1.000
-	state_category = wasteland
+	state_category=pastoral
 	history={
 		owner = CHI
 		add_core_of = CHI
@@ -14,6 +14,5 @@ state={
 			infrastructure = 1
 
 		}
-
 	}
 }
