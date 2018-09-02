@@ -191,6 +191,29 @@ create_country_leader = {
 	}
 }
 
+
+create_country_leader = {
+	name = "Ludwig Mueller"
+	desc = ""
+	picture = "Portrait_RHN_mueller.dds"
+	expire = "1965.1.1"
+	ideology = liberal_theocracy		
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Wilhelm Marx"
+	desc = ""
+	picture = "Portrait_RHN_marx.dds"
+	expire = "1965.1.1"
+	ideology = centrist		
+	traits = {
+		#
+	}
+}
+
 1939.1.1 = {
 	set_politics = {
 
