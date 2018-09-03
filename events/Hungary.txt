@@ -4,6 +4,30 @@
 
 add_namespace = hungary
 
+#Turkish Focus - Befriend Hungary
+country_event = {
+    id = hungary.2
+	title = hungary.2.t
+	desc = hungary.2.d
+    picture = GFX_report_event_german_politician_speech
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		tag = HUN
+	}
+	
+	option = {
+	    name = hungary.2.o1
+        add_opinion_modifier = { target = TUR modifier = hungary_turkey_befriended }
+	}
+	
+	option = {
+	    name = hungary.2.o2
+        add_political_power = 10
+    }
+}        
+
 #Turkish Focus - Transylvania or War
 country_event = {
     id = hungary.1
@@ -57,33 +81,8 @@ country_event = {
 		        country_event = turkey.10
 		    }
 		}		
-	}
-	
-    }
+	}	
 }
-
-#Turkish Focus - Befriend Hungary
-country_event = {
-    id = hungary.2
-	title = hungary.2.t
-	desc = hungary.2.d
-	picture = GFX_report_event_german_politician_speech
-	
-	is_triggered_only = yes
-	
-	trigger = {
-		tag = HUN
-	}
-	
-	option = {
-	    name = hungary.2.o1
-        add_opinion_modifier = { target = TUR modifier = hungary_turkey_befriended }
-	}
-	
-	option = {
-	    hungary.2.o2
-        add_political_power = 10
-	}
 }
 
 #Turkish Focus - Form Alliance
@@ -148,7 +147,7 @@ country_event = {
 	    name = hungary.4.o3
 		ai_chance = { factor = 20 }
 		add_manpower = 10000
-		add_national_unity = -0.02
+		add_stability = -0.02
 	}
 }
 
@@ -176,7 +175,7 @@ country_event = {
 	option = {
 	    name = hungary.5.o2
 		ai_chance = { factor = 20 }
-		add_national_unity = -0.05
+		add_stability = -0.05
 		add_political_power = -25
 	}
 	
@@ -304,7 +303,7 @@ country_event = {
 	option = {
 	    name = hungary.9.o2
 		ai_chance = { factor = 20 }
-		add_national_unity = 0.01
+		add_stability = 0.01
 	}
 }
 
@@ -334,7 +333,7 @@ country_event = {
 	option = {
 	    name = hungary.10.o2
 		ai_chance = { factor = 40 }
-		add_national_unity = 0.01
+		add_stability = 0.01
 	}
 }
 
@@ -365,7 +364,7 @@ country_event = {
 	option = {
 	    name = hungary.11.o2
 		ai_chance = { factor = 80 }
-		add_national_unity = 0.01
+		add_stability = 0.01
 	}
 }
 
@@ -414,7 +413,7 @@ country_event = {
 	option = {
 	    name = hungary.12.o2
 		ai_chance = { factor = 20 }
-		add_national_unity = 0.1
+		add_stability = 0.1
 		add_political_power = 30
 		HUN = {
 			country_event = hungary.14
@@ -479,7 +478,7 @@ country_event = {
 	    name = hungary.14.o1
 		ai_chance = { factor = 100 }
 		add_political_power = -30
-		add_national_unity = -0.02
+		add_stability = -0.02
 	}
 }
 
@@ -551,7 +550,7 @@ country_event = {
 	    name = hungary.17.o1
 		ai_chance = { factor = 100 }
 		add_political_power = -50
-		add_national_unity = -0.05
+		add_stability = -0.05
 	}
 }
 
@@ -581,7 +580,7 @@ country_event = {
 	option = {
 	    name = hungary.18.o2
 		ai_chance = { factor = 60 }
-		add_national_unity = 0.2
+		add_stability = 0.2
 		HUN = {
 			country_event = hungary.20
 		}
@@ -606,7 +605,7 @@ country_event = {
 		ai_chance = { factor = 100 }
 		HUN = { puppet = ROM }
 		add_political_power = -60
-		add_national_unity = 0.1
+		add_stability = 0.1
 	}
 }
 
@@ -656,7 +655,7 @@ country_event = {
 	option = {
 	    name = hungary.21.o1
 		ai_chance = { factor = 40 }
-		add_national_unity = 0.05
+		add_stability = 0.05
 		HUN = {
 			country_event = hungary.22
 		}
@@ -665,7 +664,7 @@ country_event = {
 	option = {
 	    name = hungary.21.o2
 		ai_chance = { factor = 60 }
-		add_national_unity = 0.1
+		add_stability = 0.1
 		add_political_power = 50
 		HUN = {
 			country_event = hungary.23
@@ -713,7 +712,7 @@ country_event = {
 			type = puppet_wargoal_focus
 			target = CRO
 		}
-		add_national_unity = -0.05
+		add_stability = -0.05
 		add_political_power = -50
 	}
 	
@@ -788,7 +787,7 @@ country_event = {
 	option = {
 	    name = hungary.26.o1
 		ai_chance = { factor = 55 }
-		add_national_unity = -0.02
+		add_stability = -0.02
 		HUN = {
 				country_event = hungary.27
 		}
@@ -797,7 +796,7 @@ country_event = {
 	option = {
 	    name = hungary.26.o2
 		ai_chance = { factor = 45 }
-		add_national_unity = 0.02
+		add_stability = 0.02
 		add_political_power = 30
 		HUN = {
 			country_event = hungary.28
@@ -824,7 +823,7 @@ country_event = {
 		transfer_state = 48
 		transfer_state = 212
 		transfer_state = 81
-		add_national_unity = 0.02
+		add_stability = 0.02
 	}
 }
 
@@ -850,7 +849,7 @@ country_event = {
 			generator = { 48 212 81 }
 		}
 		add_political_power = -50
-		add_national_unity = -0.03
+		add_stability = -0.03
 	}
 }
 
