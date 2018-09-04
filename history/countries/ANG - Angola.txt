@@ -1,4 +1,4 @@
-capital = 540
+﻿capital = 540
 
 set_stability = 0.00
 set_war_support = 0.00
@@ -42,7 +42,6 @@ set_convoys = 5
 		improved_machine_tools = 1
 		advanced_machine_tools = 1
 		synth_oil_experiments = 1
-		oil_plant = 1
 		construction1 = 1
 		construction2 = 1
 		dispersed_industry = 1
