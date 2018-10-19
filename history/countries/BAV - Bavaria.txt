@@ -1,4 +1,4 @@
-capital = 52
+﻿capital = 52
 
 oob = "BAV_1936"
 
@@ -84,7 +84,7 @@ add_ideas = {
 set_national_unity = 0.50
 
 create_country_leader = {
-	name = "King Ludwig IV"
+	name = "Rupprecht I"
 	desc = ""
 	picture = "Portrait_BAV_Ludwig_Fourth.dds"
 	expire = "1965.1.1"
