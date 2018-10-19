@@ -134,14 +134,14 @@ create_country_leader = {
 
 create_corps_commander = {
 	name = "Petrus Wilhelmus Best"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
+	portrait_path = "gfx/leaders/HOL/best.dds"
 	traits = { panzer_leader fortress_buster }
 	skill = 4
 }
 
 create_navy_leader = {
 	name = "Johannes Theodorus Furstner"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_1.dds"
+	portrait_path = "gfx/leaders/HOL/furstner.dds"
 	traits = { blockade_runner superior_tactician }
 	skill = 4
 }
