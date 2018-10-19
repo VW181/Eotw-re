@@ -132,6 +132,49 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = {
+	name = "Dirk Jan de Geer"
+	desc = ""
+	picture = "Portrait_HOL_geer.dds"
+	expire = "1965.1.1"
+	ideology = constitutional_christian
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Pieter Oud"
+	desc = ""
+	picture = "Portrait_HOL_oud.dds"
+	expire = "1965.1.1"
+	ideology = centrist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Paul de Groot"
+	desc = ""
+	picture = "Portrait_HOL_groot.dds"
+	expire = "1965.1.1"
+	ideology = international_collectivist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Jaap Burger"
+	desc = ""
+	picture = "Portrait_HOL_burger.dds"
+	expire = "1965.1.1"
+	ideology = liberal_collectivist
+	traits = {
+		#
+	}
+}
 create_corps_commander = {
 	name = "Petrus Wilhelmus Best"
 	portrait_path = "gfx/leaders/HOL/best.dds"
