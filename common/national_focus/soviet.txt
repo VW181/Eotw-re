@@ -147,13 +147,13 @@ focus_tree = {
 				name = industrial_bonus
 				bonus = 0.5
 				ahead_reduction = 1
-				technology = industry
+				Category = industry
 			}
 			add_tech_bonus = {
 				name = construction_bonus
 				bonus = 0.5
 				ahead_reduction = 1
-				technology = construction_tech
+				category = construction_tech
 			}
 		}
 	}
@@ -296,12 +296,12 @@ focus_tree = {
 		    add_tech_bonus = {
 				name = industrial_bonus
 				ahead_reduction = 1.5
-				technology = industry
+				category = industry
 		    }
 			add_tech_bonus = {
 				name = construction_tech_bonus
 				ahead_reduction = 1.5
-				technology = construction_tech
+				category = construction_tech
 		    }
 			add_political_power = 100
 		}
