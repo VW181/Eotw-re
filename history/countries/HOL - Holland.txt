@@ -1,4 +1,4 @@
-capital = 7
+﻿capital = 7
 
 set_stability = 0.82
 set_war_support = 0.33
@@ -181,3 +181,16 @@ create_navy_leader = {
 	skill = 4
 }
 
+
+### Ship Variants ###
+
+create_equipment_variant = {
+	name = "K-XIV Class"
+	type = submarine_1
+	upgrades = {
+		ship_reliability_upgrade = 2
+		sub_engine_upgrade = 2
+		sub_stealth_upgrade = 2
+		sub_torpedo_upgrade = 2
+	}
+}
