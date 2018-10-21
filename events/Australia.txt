@@ -86,7 +86,7 @@ country_event = {
 			target = CHI
 			generator = { 524 }
 		}
-		add_national_unity = 0.05
+		add_war_support = 0.05
 	}
 	
 	option = {
@@ -94,7 +94,7 @@ country_event = {
 		ai_chance = {
 			factor = 90
 		}
-		add_national_unity = -0.02
+		add_war_suppport = -0.02
 		add_political_power = 10
 	}
 }
@@ -120,7 +120,7 @@ country_event = {
 		AST = {
 			country_event = australia.5
 		}
-		add_national_unity = 0.08
+		add_stability = 0.08
 	}
 	
 	option = {
@@ -131,7 +131,7 @@ country_event = {
 		AST = {
 			country_event = australia.6
 		}
-		add_national_unity = -0.03
+		add_stability = -0.03
 	}
 }
 

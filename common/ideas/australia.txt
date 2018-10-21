@@ -95,7 +95,67 @@ ideas = {
 			
 			picture = generic_victors_of_ww1
 		}
-	}
+	}	
+
+	country = {
+	    nationalism_aussie = {
+		    
+			allowed = {
+				original_tag = AST
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.1
+				nationalist_acceptance = 85
+				production_speed_dockyard_factor = 0.1
+				industrial_capacity_dockyard = 0.2 
+			}
+			
+			picture = generic_victors_of_ww1
+		}
+	}	
+
+	country = {
+	    strasserism_aussie = {
+		    
+			allowed = {
+				original_tag = AST
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.1
+				strasserist_acceptance = 85
+				production_speed_arms_factory_factor = 0.1
+				industrial_capacity_factory = 0.1 
+			}
+			
+			picture = generic_victors_of_ww1
+		}
+	}	
+
+	country = {
+	    de_leonism_aussie = {
+		    
+			allowed = {
+				original_tag = AST
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.1
+				de_leonist_acceptance = 85
+				consumer_goods_factor = -0.15
+				production_speed_buildings_factor = 0.1 
+			}
+			
+			picture = generic_victors_of_ww1
+		}
+	}	
 	
 	country = {
 	    girt_by_sea_idea = {

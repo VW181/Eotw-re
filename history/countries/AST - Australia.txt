@@ -1,7 +1,9 @@
-capital = 285
+﻿capital = 285
 
 set_stability = 0.75
 set_war_support = 0.27
+
+set_research_slots = 4
 
 oob = "AST_1936"
 
@@ -30,6 +32,8 @@ set_technology = {
 
 	fleet_in_being = 1
 }
+
+set_convoys = 100
 
 1939.1.1 = {
 
@@ -86,9 +90,6 @@ set_technology = {
 		basic_machine_tools = 1
 		improved_machine_tools = 1
 		advanced_machine_tools = 1
-		synth_oil_experiments = 1
-		oil_plant = 1
-		improved_oil_plant = 1
 		construction1 = 1
 		construction2 = 1
 		dispersed_industry = 1
