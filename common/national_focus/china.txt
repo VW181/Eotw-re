@@ -942,7 +942,7 @@ focus_tree = {
 		mutually_exclusive = { focus = CHI_a_japanese_woman }
 		available = {
 		    NOT = {
-			    at_war = FRA
+			    has_war_with = FRA
 			}
 		}
 		x = 37
@@ -1381,24 +1381,10 @@ focus_tree = {
 	}
 	
 	focus = {
-	    id = CHI_support_rebels_in_philippines
-		icon = GFX_goal_generic_military_sphere
-		prerequisite = { focus = CHI_protection_against_russia }
-		x = 50
-		y = 5
-		cost = 10
-		completion_reward = {
-		    PHI = {
-			    add_ideas = violent_rebels
-			}
-		}
-	}
-	
-	focus = {
 	    id = CHI_strike_the_philippines
-		icon = GFX_goal_generic_occypy_states_ongoing_war
-		prerequisite = { focus = CHI_support_rebels_in_philippines }
-		x = 50
+		icon = GFX_goal_generic_occupy_states_ongoing_war
+		prerequisite = { focus = CHI_the_old_borders }
+		x = 49
 		y = 6
 		cost = 10
 		completion_reward = {
@@ -1449,7 +1435,7 @@ focus_tree = {
 		available = {
 		    ENG = { is_in_faction = no }
 			NOT = {
-			    at_war = ENG
+			    has_war_with = ENG
 			}
 		}
 		x = 51
@@ -1477,7 +1463,7 @@ focus_tree = {
 		available = {
 		    SOV = { is_in_faction = no }
 			NOT = {
-			    at_war = SOV
+			    has_war_with = SOV
 			}
 		}
 		x = 49
@@ -1505,7 +1491,7 @@ focus_tree = {
 		available = {
 		    AST = { is_in_faction = no }
 			NOT = {
-			    at_war = AST
+			    has_war_with = AST
 			}
 		}
 		x = 53
